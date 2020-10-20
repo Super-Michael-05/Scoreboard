@@ -16,13 +16,16 @@
 
 ![Banner](https://raw.githubusercontent.com/Super-Michael-05/Scoreboard/master/README_assets/banner.png)
 
+<h2 align="left">How to open the application</h2>
+
+<p>Open the folder called "Scoreboard-build" and then double click "High Score Table.exe"</p>
+
 <h2 align="left">Project images</h2>
 
-![1st](https://raw.githubusercontent.com/Super-Michael-05/myCV/master/README_assets/Screenshot%20(1).png)
+![1st](https://raw.githubusercontent.com/Super-Michael-05/Scoreboard/master/README_assets/Screenshot%20(20).png)
 
-![2nd](https://raw.githubusercontent.com/Super-Michael-05/myCV/master/README_assets/Screenshot%20(2).png)
+<h2 align="left">Code challenge</h2>
 
-![3rd](https://raw.githubusercontent.com/Super-Michael-05/myCV/master/README_assets/Screenshot%20(3).png)
+<p>Currently there's no function for removing the scores from the scoreboard. The code challenge is to create one. If you create one make a push request and I'll merge the files. You'll get contribution points.</p>
 
 <footer>Created by Mikael Kolehmainen with C#.</footer>
-
